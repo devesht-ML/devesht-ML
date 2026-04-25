@@ -16,13 +16,13 @@ I build things on both ends — machine learning models that actually work, and 
 |---|---|---|
 | Python, scikit-learn | React, Express.js | Git & GitHub |
 | Pandas, NumPy | Node.js, MySQL | REST APIs |
-| Matplotlib, Seaborn | HTML/CSS/JS | Postman, VS Code |
+| Matplotlib, Seaborn | HTML/CSS/JS | Jupyter, VS Code |
 
 ---
 
 ## Projects worth looking at
 
-**Fitlife-Gym-Landing-Page(https://fit-life-gym-landing-page-bs3kksqur-devesht388-9558s-projects.vercel.app/)**
+**[Fitlife-Gym-Landing-Page](https://fit-life-gym-landing-page-bs3kksqur-devesht388-9558s-projects.vercel.app/)**
 Modern fitness landing page showcasing gym services, memberships, and workout programs to help users quickly explore, join, and start their fitness journey online.
 
 `React` `Tailwind CSS`
@@ -37,9 +37,22 @@ Customer segmentation model that uses K-Means clustering to group customers base
 ## What I'm building right now
 
 > **Human Pose Extimation Using Deep Learning** —Deep learning–based human pose estimation system that detects body keypoints from images/videos to analyze posture and movement, enabling applications like fitness tracking and real-time activity analysis.
+
 >  Stack: Python, [Tensorflow, OpenCV, Movenet, Matplotlib].  
 > Currently working on: [Real time pose detection with posture correction alert].
 
+## Open Source Contribution
+
+> **I am also doing contribution on github at [JoomlaCMS](https://github.com/devesht-ML/joomla-cms.git) platform by means of participating in GSoc to Gain real-world knowledge of how platforms, codes and tools works to solve issues.**
+> 
+> Contribution to real-world open-source projects helps me to understand working of real-world projects by identifying bugs, proposing fixes, and submitting pull requests to improve functionality, stability, and overall code quality.
+
+> **Tech Stack / Tools Used**
+Languages: JavaScript, PHP, Python
+Framework/CMS: Joomla
+Version Control: Git, GitHub
+Testing & Debugging: Browser DevTools, logs, local servers (XAMPP/Laragon)
+Collaboration: Issues, Pull Requests, Code Reviews
 ---
 
 ## Get in touch
