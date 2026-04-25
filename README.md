@@ -1,6 +1,6 @@
 # Hey, I'm Devesh 
 
-**BCA final year · ML + Full Stack Student · India**
+**BCA final year · ML + Full Stack Developer · India**
 
 ![Open to remote](https://img.shields.io/badge/Open%20to-Remote-blue?style=flat-square)
 ![Open to freelance](https://img.shields.io/badge/Open%20to-Freelance-blue?style=flat-square)
@@ -36,10 +36,10 @@ Customer segmentation model that uses K-Means clustering to group customers base
 
 ## What I'm building right now
 
-> **Human Pose Extimation Using Deep Learning** —Deep learning–based human pose estimation system that detects body keypoints from images/videos to analyze posture and movement, enabling applications like fitness tracking and real-time activity analysis.
+> **Human Pose Estimation Using Deep Learning** —Deep learning–based human pose estimation system that detects body keypoints from images/videos to analyze posture and movement, enabling applications like fitness tracking and real-time activity analysis.
 
->  Stack: Python, [Tensorflow, OpenCV, Movenet, Matplotlib].  
-> Currently working on: [Real time pose detection with posture correction alert].
+>  Stack: Python, Tensorflow, OpenCV, Movenet, Matplotlib.  
+> Currently working on: Real time pose detection with posture correction alert.
 
 ## Open Source Contribution
 
